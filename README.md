@@ -63,7 +63,5 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmed-zaki-7325b9301/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ahmed-zaki-7325b9301/)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-zaki-7325b9301/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel&style=for-the-badge)](https://angular-day1.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Ahmed-zaki123/)
