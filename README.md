@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 
@@ -29,24 +29,35 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/RoR-CC0000?logo=rubyonrails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 
-### 🛢️ Databases
+### 🛢️ Database Systems
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-### 🔧 Tools & Others
+### 🔌 API Development & Tools
+![API](https://img.shields.io/badge/API-005571?logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-1572B6?logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+
+### 🧠 Problem Solving & Concepts
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-121212?style=for-the-badge&logo=codeforces&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=algolia&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=for-the-badge&logo=data&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge&logo=abstract&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2ECC71?style=for-the-badge&logo=sketch&logoColor=white)
 
 ---
 
