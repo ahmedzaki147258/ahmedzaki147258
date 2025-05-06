@@ -5,7 +5,7 @@
 
 🎯 **Motivated Software Engineer** with hands-on experience in full-stack development using **Laravel**, **Node.js**, and modern JavaScript frameworks. I’m passionate about building clean, scalable APIs and delivering excellent user experiences.
 
-- 💻 Currently working at **HandleT** as a Backend Developer  
+- 💻 Worked as a Backend Developer at HandleT, from October 2023 to October 2024
 - 🎓 Graduate of **Ain Shams University** – IS Dept. (2023), and Postgraduate Diploma at **ITI – Open Source Track**
 - 🧑‍💻 Reach me at: [ahmedzaki789123@gmail.com](mailto:ahmedzaki789123@gmail.com)
 - 🌐 Portfolio: [Ahmed-zaki.portfolio](https://angular-day1.vercel.app/)
