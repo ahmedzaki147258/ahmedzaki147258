@@ -8,7 +8,7 @@
 - 💻 Currently working at **HandleT** as a Backend Developer  
 - 🎓 Graduate of **Ain Shams University** – IS Dept. (2023), and Postgraduate Diploma at **ITI – Open Source Track**
 - 📬 Reach me at: [ahmedzaki789123@gmail.com](mailto:ahmedzaki789123@gmail.com)
-- 🌐 Portfolio: [Ahmed-zaki.vercel.app](https://ahmed-zaki.vercel.app)
+- 🌐 Portfolio: [Ahmed-zaki.portfolio](https://angular-day1.vercel.app/)
 - 📍 Cairo, Egypt  
 - 🧑‍💻 Actively contributing to [GitHub](https://github.com/ahmedzaki147258)
 
