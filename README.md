@@ -52,11 +52,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ### 🧠 Problem Solving & Concepts
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-121212?style=for-the-badge&logo=codeforces&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=algolia&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=for-the-badge&logo=data&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge&logo=abstract&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2ECC71?style=for-the-badge&logo=sketch&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-121212?logo=codeforces&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?logo=leetcode&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?logo=databricks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-8E44AD?logo=oop&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-2ECC71?logo=blockchain-dot-com&logoColor=white)
 
 ---
 
