@@ -50,29 +50,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 [Quotobia](https://github.com/o-some-sad/qutobia) – Online Bookstore
-> MEAN Stack | Stripe | Cloudinary  
-Live: [quotobia.o-sad.org](https://quotobia.o-sad.org/)
-
-### 🔹 [Cafeteria System](https://github.com/Mohamed-Abusaif/Cafeteria-System-Using-PHP)
-> PHP | MySQL | Vue | Bootstrap
-
-### 🔹 [Hotel System](https://github.com/ahmedzaki147258/Hotel-System-Laravel)
-> Laravel | Tailwind | Vue
-
-### 🔹 [Blog System](https://github.com/ahmedzaki147258/Blog-React-Project)
-> React | NestJS | MySQL
-
-### 🔹 [Eshfaa](https://github.com/ahmedzaki147258/Eshfaa)
-> Laravel | Real-time Chat | FCM | Task Scheduling
-
-### 🔹 [Black Horse](https://github.com/ahmedzaki147258/Black-Hores)
-> ExpressJS | MongoDB | Real-time | Cron Jobs
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
